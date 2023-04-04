@@ -1,0 +1,37 @@
+C:\Users\Filip Lichovski\OneDrive\Documents\SI_2023_lab1_213086>git log
+commit 7e674d102bb409e65ed9d8c6ae2f8264736c39ff (HEAD -> master, origin/master, bug3)
+Author: unknown <Filiplico>
+Date:   Tue Apr 4 23:08:25 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 9b2428cdd229a48abe25aed46367a5744e5c0034
+Merge: 5a525f5 b205a8d
+Author: unknown <Filiplico>
+Date:   Tue Apr 4 23:14:58 2023 +0200
+
+    Merge branch 'bug2'
+
+commit b205a8d8329237b6d834348b586026ffa1bef357 (origin/bug2, bug2)
+Author: unknown <Filiplico>
+Date:   Tue Apr 4 23:04:11 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 5a525f5c651d2de80e46bc828f1d96089bdf455e (origin/bug1, bug1)
+Author: unknown <Filiplico>
+Date:   Tue Apr 4 22:57:47 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 69b24a469259fc03193b74bcde656b5316ce07cc
+Author: unknown <Filiplico>
+Date:   Tue Apr 4 22:49:31 2023 +0200
+
+    Add java class
+
+commit d8ac0217e510b511423ec1bb25b43aca5743a9af
+Author: unknown <Filiplico>
+Date:   Tue Apr 4 22:46:23 2023 +0200
+
+    Initial commit
