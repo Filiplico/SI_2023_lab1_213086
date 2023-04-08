@@ -1,5 +1,29 @@
 C:\Users\Filip Lichovski\OneDrive\Documents\SI_2023_lab1_213086>git log
-commit 7e674d102bb409e65ed9d8c6ae2f8264736c39ff (HEAD -> master, origin/master, bug3)
+commit 8c29039b36a6949050b9285925f6451dedcae0ef (HEAD -> master, origin/master)
+Author: unknown <Filiplico>
+Date:   Sat Apr 8 22:33:20 2023 +0200
+
+    Initial commit
+
+commit 519df9c9d51327dc0d8e921fd376d00a948dee8c
+Author: unknown <Filiplico>
+Date:   Sat Apr 8 22:28:57 2023 +0200
+
+    Final commit
+
+commit 5c11e964a2db29c73e09f150cf79c71276cc2e50
+Author: unknown <Filiplico>
+Date:   Wed Apr 5 00:05:20 2023 +0200
+
+    Final commit
+
+commit a8e7ad98e710bfdb0e65aecc8eb8211b318abce2
+Author: unknown <Filiplico>
+Date:   Tue Apr 4 23:56:51 2023 +0200
+
+    Final commit
+
+commit 7e674d102bb409e65ed9d8c6ae2f8264736c39ff (origin/bug3, bug3)
 Author: unknown <Filiplico>
 Date:   Tue Apr 4 23:08:25 2023 +0200
 
